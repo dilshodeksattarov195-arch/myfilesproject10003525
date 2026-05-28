@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesrocess",
+        "uuid": 16764900,
+        "checksum": "evoxl4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
